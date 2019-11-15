@@ -2,24 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baad7f4d-bf05-46f9-a141-f33d133e7fde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter4/arrayLoop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/dataset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/further_array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/json.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/lycanthrope'slog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/mathObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/method.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/mutability.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/object2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/properties.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/propertiesString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/restParameter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/abstract.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/filterArr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/higher-order-function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/mapArr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/reduceArr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/characterCode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/recognizingText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/classNotation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/encapsulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/inheritance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/instanceofOperator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/map2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/overriding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/polumorphism.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/prototype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/prototype2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/set_get_static.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/symbols.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/meadowfield.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -32,57 +30,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter5/abstract.js">
+        <entry file="file://$PROJECT_DIR$/chapter7/meadowfield.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="9" selection-end-line="10" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter5/higher-order-function.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter5/filterArr.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="14" lean-forward="true" selection-end-line="3" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter5/mapArr.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="9" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="270">
+              <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter5/reduceArr.js">
+        <entry file="file://$PROJECT_DIR$/chapter6/encapsulation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter4/dataset.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="45">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -122,6 +84,25 @@
         <option value="$PROJECT_DIR$/chapter5/filterArr.js" />
         <option value="$PROJECT_DIR$/chapter5/mapArr.js" />
         <option value="$PROJECT_DIR$/chapter5/reduceArr.js" />
+        <option value="$PROJECT_DIR$/chapter5/composability.js" />
+        <option value="$PROJECT_DIR$/chapter5/solution5.4.js" />
+        <option value="$PROJECT_DIR$/chapter5/characterCode.js" />
+        <option value="$PROJECT_DIR$/chapter5/recognizingText.js" />
+        <option value="$PROJECT_DIR$/chapter6/methods.js" />
+        <option value="$PROJECT_DIR$/chapter6/prototype.js" />
+        <option value="$PROJECT_DIR$/chapter6/prototype2.js" />
+        <option value="$PROJECT_DIR$/chapter6/classNotation.js" />
+        <option value="$PROJECT_DIR$/chapter6/overriding.js" />
+        <option value="$PROJECT_DIR$/chapter6/map.js" />
+        <option value="$PROJECT_DIR$/chapter6/map2.js" />
+        <option value="$PROJECT_DIR$/chapter6/polumorphism.js" />
+        <option value="$PROJECT_DIR$/chapter6/symbols.js" />
+        <option value="$PROJECT_DIR$/chapter6/set_get_static.js" />
+        <option value="$PROJECT_DIR$/chapter6/inheritance.js" />
+        <option value="$PROJECT_DIR$/chapter6/instanceofOperator.js" />
+        <option value="$PROJECT_DIR$/chapter7/robot.js" />
+        <option value="$PROJECT_DIR$/chapter7/meadowfield.js" />
+        <option value="$PROJECT_DIR$/chapter6/encapsulation.js" />
       </list>
     </option>
   </component>
@@ -136,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,23 +127,24 @@
             <path>
               <item name="Dragold-Training-JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dragold-Training-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Dragold-Training-JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dragold-Training-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Learn-JS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -189,24 +170,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573705869588</updated>
-      <workItem from="1573705871000" duration="14334000" />
+      <workItem from="1573705871000" duration="15019000" />
+      <workItem from="1573785216303" duration="18951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14334000" />
+    <option name="totallyTimeSpent" value="33970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22335424" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18338558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -214,10 +192,33 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22335424" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -227,7 +228,6 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/chapter5/mapArr.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -334,31 +334,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4/dataset.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5/abstracting.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="10" lean-forward="true" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/abstracting.js" />
     <entry file="file://$PROJECT_DIR$/chapter5/higher-order-function.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5/abstract.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="9" selection-end-line="10" selection-end-column="20" />
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -380,6 +360,148 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/dataset.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/solution5.4.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/composability.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/abstract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/characterCode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/recognizingText.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/classNotation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" lean-forward="true" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/methods.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/map2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/prototype2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/prototype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/overriding.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="true" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/polumorphism.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/symbols.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/set_get_static.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/inheritance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/instanceofOperator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" lean-forward="true" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7/robot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7/meadowfield.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/encapsulation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>
